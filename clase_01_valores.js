@@ -11,7 +11,7 @@
 true;
 false;
 
-//Valores vacios//
+//Valores vacios javascript//
 
 null;
 undefined;
