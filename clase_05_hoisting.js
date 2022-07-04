@@ -1,4 +1,4 @@
-// hoisting con variables
+// hoisting con variables 2022
 
 console.log(usuariosRegistrados);
 var usuariosRegistrados = "Rafael Reyes";
